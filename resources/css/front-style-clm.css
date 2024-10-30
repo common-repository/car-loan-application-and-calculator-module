@@ -1,0 +1,33 @@
+/* CSS Document */
+
+#co_buyer_form {
+	display:none;
+}
+
+#clm_message_error {
+	padding:25px;
+	border:1px solid #9a1216;
+	background:#b9262b;
+	color:#fff;
+	border-radius:5px;
+	font-weight:bold;
+	font-size:25px;
+	text-align:center;
+	opacity:0.8;
+}
+
+#clm_message_success {
+	padding:25px;
+	border:1px solid #145106;
+	background:#1e700b;
+	color:#fff;
+	border-radius:5px;
+	font-weight:bold;
+	font-size:25px;
+	text-align:center;
+	opacity:0.8;
+}
+
+span#ajax_loader {
+	display:none;
+}
